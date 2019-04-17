@@ -1,0 +1,74 @@
+body {
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: burlywood;
+}
+h1 {
+    font-family: coutier,monospace;
+    font-size: 3cm;
+    line-height: 3cm;
+    color: purple;
+}
+h2{
+    font-family: courier, monospace;
+    font-size: 2cm;
+    line-height: 3cm;
+    color: purple;
+}
+h3{
+    font-family: courier, monospace;
+    font-size: 1cm;
+    line-height: 1cm;
+    color: purple;
+}
+h4{
+    font-family: courier, monospace;
+    line-height: 1.5cm;
+    font-size: 1cm;
+    color: purple;
+}
+p{
+    font-family: courier,monospace;
+    font-size: 1.3cm;
+    color: purple;
+}
+ul{
+    font-family: courier, monospace;
+    font-size: 1.3cm;
+    color: purple;
+}
+li{
+    font-family: courier,monospace;
+    font-size: 1cm;
+    color: purple;
+}
+#wrapper {
+            width: 50%;
+            margin-left: auto;
+            margin-right: auto;
+            background-color: bisque;
+            min-width: 900px;
+            max-width: 1280px;
+            border-radius: 50px;
+        }
+img {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+main {
+    padding-left: 2em;
+    padding-right:2em;
+    padding-bottom: 2em;
+    display: block;
+}
+hr { 
+    display:subgrid;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: 1px;
+}

@@ -1,0 +1,3 @@
+[submodule "responsive-site"]
+	path = responsive-site
+	url = https://github.com/pritjoshi/responsive-site.git
